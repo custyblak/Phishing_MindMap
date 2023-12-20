@@ -12,7 +12,7 @@ This mindmap shows the types of phishing, decodes indicators, and expose the cun
 
 <h2>Techniques employed by adversaries to invade email detections </h2>
 
-- <b>Use of non-blacklisted SMTP servers: </b> (21H2)
+- <b>Use of non-blacklisted SMTP servers: </b>
 
 <h2>Mindmap:</h2>
 

@@ -1,13 +1,12 @@
 <h1>Phishing MindMap</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
-<h2>Description</h2>
+<h2>Description</h2> <br>
 This mindmap shows the types of phishing, decodes indicators, and expose the cunning tactics adversaries deploy to outsmart defenses. Equip you with an arsenal of analyst tools, and mitigation tactics. Finally, a methodology for clear-shot analysis of suspicious emails
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Analyst Tools</h2>
 
 - <b>PowerShell</b> 
 - <b>Diskpart</b>
@@ -20,7 +19,7 @@ This mindmap shows the types of phishing, decodes indicators, and expose the cun
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/TFq5uG7" height="80%" width="80%" alt="Phishing Mindmap"/>
 <br />
 <br />
 Select the disk:  <br/>

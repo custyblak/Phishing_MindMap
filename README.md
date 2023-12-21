@@ -14,7 +14,7 @@ This mindmap shows the types of phishing, decodes indicators, and expose the cun
 
 - <b>**Use of non-blacklisted SMTP servers:** This tactic involves utilizing SMTP (Simple Mail Transfer Protocol) servers that are not currently listed on email blacklists to avoid detection and improve the chances of successfully delivering malicious emails.</b>
 
-- <b>**Use of newly created domains:** cybercriminals often create new domains in order to evade detection by email security solutions that block malicious emails due to domain reputation. </b>
+- <b>**Use of newly created domains:** Cybercriminals often create new domains in order to evade detection by email security solutions that block malicious emails due to domain reputation. </b>
 
 - <b>**Sandbox analysis evasion:** Refers to the techniques employed by malware or other malicious entities to avoid detection when the malicious code is executed within a security sandbox environment.  </b>
 

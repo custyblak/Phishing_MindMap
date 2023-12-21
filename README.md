@@ -16,7 +16,7 @@ This mindmap shows the types of phishing, decodes indicators, and expose the cun
 
 - <b>**Use of newly created domains:** Cybercriminals often create new domains in order to evade detection by email security solutions that block malicious emails due to domain reputation. </b>
 
-- <b>**Sandbox analysis evasion:** Refers to the techniques employed by malware or other malicious entities to avoid detection when the malicious code is executed within a security sandbox environment.  </b>
+- <b>**Sandbox analysis evasion:** Refers to the techniques employed by malware or other malicious entities to avoid detection when the malicious code is executed within a security sandbox environment. Check the mindmap below for some of the techniques. </b>
 
 - <b>**Use of trusted domains to host phishing pages:** When cybercriminals use trusted domains to host phishing pages, they take advantage of the trust users have in these domains to make their fraudulent activities more convincing. This tactic involves creating deceptive web pages that closely resemble the login or information entry pages of legitimate websites hosted on domains that users recognize and trust. For example, an attacker might compromise a trusted website, upload a phishing page, and then send phishing emails or messages with links to the fake pages. Users, trusting the domain, may be more likely to enter their sensitive information, unaware that they are interacting with a malicious site.</b>
 

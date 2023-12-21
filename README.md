@@ -1,4 +1,4 @@
- <h1>Phishing MindMap</h1>
+![image](https://github.com/custyblak/Phishing_MindMap/assets/100330009/2c7fd0ef-dc50-4e16-bbc9-4039889d27fb) <h1>Phishing MindMap</h1>
 
 <h2>Description</h2> <br >
 This mindmap shows the types of phishing, decodes indicators, and expose the cunning tactics adversaries deploy to outsmart email detections. Equip you with an arsenal of analyst tools, mitigation tactics and a methodology for clear-shot analysis of suspicious emails
@@ -13,6 +13,10 @@ This mindmap shows the types of phishing, decodes indicators, and expose the cun
 <h2>Techniques employed by adversaries to invade email detections </h2>
 
 - <b>Use of non-blacklisted SMTP servers: </b>
+- <b>Use of newly created domains: </b>
+- <b>Sandbox analysis evasion: </b>
+- <b>Trusted domains hosting phishing pages: </b>
+
 
 <h2>Mindmap:</h2>
 
